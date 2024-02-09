@@ -1,1 +1,1 @@
-# DocxEasyFormat
+# Editor's Friend
